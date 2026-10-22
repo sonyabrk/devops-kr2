@@ -1,3 +1,4 @@
+# KR2: Bryukhanova
 import os
 import socket
 
